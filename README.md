@@ -1,10 +1,8 @@
 [![Mentee](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet)](https://findmentor.network/peer/selcuk-tatar)
-[![Mentor](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentor-brightgreen)](https://findmentor.network/peer/selcuk-tatar)
+[![Mentor](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-brightgreen)](https://findmentor.network/peer/selcuk-tatar)
 ---
 ---
-
-<img src='./assets/nameless.gif' style='margin-left: 30%; margin-right: 30%;'>
-
+![](./assets/nameless.gif)
 
 # Hey, I am 19, Antalya/Turkey, Information-Security Student.
 ---
