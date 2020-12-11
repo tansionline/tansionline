@@ -2,8 +2,10 @@
 [![Mentor](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentor-brightgreen)](https://findmentor.network/peer/selcuk-tatar)
 ---
 ---
-<img src='./assets/nameless.gif' style='text-align: center'>
----
+
+<img src='./assets/nameless.gif' style='margin-left: 30%; margin-right: 30%;'>
+
+
 # Hey, I am 19, Antalya/Turkey, Information-Security Student.
 ---
 # Interest: Open Source, Security, Love Cats 😻, Walk, Meet and Talk people. 
