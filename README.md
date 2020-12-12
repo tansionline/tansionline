@@ -3,8 +3,8 @@
 ---
 ---
 
-<p align="center">  <img src="https://github.com/tansionline/tansionline/blob/main/assets/nameless.gif?raw=true">
-<h2> Selcuk Tatar </h2> </p>
+<p align="center"><img src="https://github.com/tansionline/tansionline/blob/main/assets/nameless.gif?raw=true"></p>
+
 # Hey, I am 19, Antalya/Turkey, Information-Security Student.
 ---
 # Interest: Open Source, Security, Love Cats 😻, Walk, Meet and Talk people. 
