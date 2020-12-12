@@ -3,7 +3,7 @@
 ---
 ---
 
-<p align="center">  <img src="https://github.com/tansionline/tansionline/blob/main/assets/nameless.gif?raw=true" width="200" height="200">
+<p align="center">  <img src="https://github.com/tansionline/tansionline/blob/main/assets/nameless.gif?raw=true">
 <h2> <p align="center">Selcuk Tatar </h2>
 # Hey, I am 19, Antalya/Turkey, Information-Security Student.
 ---
