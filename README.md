@@ -2,7 +2,7 @@
 [![Mentor](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-brightgreen)](https://findmentor.network/peer/selcuk-tatar)
 ---
 ---
-![](./assets/nameless.gif?raw=true)
+![](https://github.com/tansionline/tansionline/blob/main/assets/nameless.gif?raw=true)
 
 # Hey, I am 19, Antalya/Turkey, Information-Security Student.
 ---
