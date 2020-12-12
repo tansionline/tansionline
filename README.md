@@ -4,7 +4,7 @@
 ---
 
 <p align="center">  <img src="https://github.com/tansionline/tansionline/blob/main/assets/nameless.gif?raw=true" width="200" height="200">
-<h2> <p align="center"> Hi there <img src="https://github.com/tansionline/tansionline/blob/main/assets/nameless.gif?raw=true" width="40" height="40" >Selcuk Tatar </h2>
+<h2> <p align="center">Selcuk Tatar </h2>
 # Hey, I am 19, Antalya/Turkey, Information-Security Student.
 ---
 # Interest: Open Source, Security, Love Cats 😻, Walk, Meet and Talk people. 
