@@ -8,6 +8,6 @@
 <div align="center">
 <li> 🎉 Hey, I am 19, Antalya/Turkey, Information-Security Student. </li>
 <li> 🧐 Interest: Open-source, security, cats, walk, meet and talk people. 😻 </li>
-<li> 📝 Skill: I know JavaScript, Node.js, React, Python, Flask. And I know googling 😅. </li>
+<li> 📝 Skill: I know JavaScript, Node.js, React, Vue. And I know googling 😅. </li>
   <li> 📙 You can reach me <a href="https://findmentor.network/peer/selcuk-tatar">here</a>. </li> 
 </div>
