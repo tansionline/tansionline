@@ -9,6 +9,6 @@
 <div align="center">
 <li> 🎉 Hey, I am 20, Software Developer, Antalya/Turkey, Information-Security Student. </li>
 <li> 🧐 Interest: Open-source, security, development, cats, walk, meet and talk to people. 😻 </li>
-<li> 📝 Skill: I know JavaScript, Node.js, VueJS. And I know googling. Try to learn Go. 😅 </li>
+<li> 📝 Skill: I know JavaScript, Node.js, VueJS, React. And I know googling. Try to learn Go. 😅 </li>
 <li> 📙 You can reach me <a href="https://findmentor.network/peer/selcuk-tatar">here</a>. </li> 
 </div>
