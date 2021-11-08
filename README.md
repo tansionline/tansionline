@@ -11,7 +11,8 @@
   </li>
   <li>
     📙 You can reach me
-    <a href="https://superpeer.com/tansi">here</a>. <a href="https://drive.google.com/file/d/1yerX3NpYm3JrkTPdiTxhtHktpzJ7UCfS/view">Hire me</a>
+    <a href="https://superpeer.com/tansi">here</a>.
+<!--     <a href="https://drive.google.com/file/d/1yerX3NpYm3JrkTPdiTxhtHktpzJ7UCfS/view">Hire me</a> -->
   </li>
 </div>
 <br />
