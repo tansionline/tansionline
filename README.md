@@ -1,11 +1,4 @@
 
-
-<p align="center">
-  <img
-    src="https://github.com/tansionline/tansionline/blob/main/assets/nameless.gif?raw=true"
-  />
-</p>
-
 <div align="center">
   <li>🎉 Hey, I'm a student developer from Antalya/Turkey.</li>
   <li>
