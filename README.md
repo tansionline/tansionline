@@ -1,4 +1,8 @@
-
+<p align="center">
+  <img
+    src="https://c.tenor.com/yu4yJBMcidMAAAAS/space.gif?raw=true"
+  />
+</p>
 <div align="center">
   <li>🎉 Hey, I'm a student developer from Antalya/Turkey.</li>
   <li>
