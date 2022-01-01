@@ -4,7 +4,7 @@
   />
 </p>
 <div align="center">
-  <li>🎉 Hey, I'm a student developer from Antalya/Turkey.</li>
+  <li>🎉 Hey, I'm a developer from Antalya/Turkey.</li>
   <li>
     🧐 Interests: Open-source, security, development, cats, walking, meeting new
     people. 😻
