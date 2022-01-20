@@ -4,18 +4,15 @@
   />
 </p>
 <div align="center">
-  <li>🎉 Hey, I'm a developer from Antalya/Turkey.</li>
-  <li>
-    🧐 Interests: Open-source, security, development, cats, walking, meeting new
-    people. 😻
+  <li>🎉 Hey, I'm a Software Developer from Antalya/Turkey.</li>
   </li>
   <li>
-    📝 Skills: I use JavaScript, Node.js, VueJS, React. And I know how to
+    📝 Skills: I use JavaScript, Node.js, VueJS, PostgreSQL, Linux, React. And I know how to
     google. 😅
   </li>
   <li>
-    📙 You can reach me
-    <a href="https://superpeer.com/tansi">here</a>.
-<!--     <a href="https://drive.google.com/file/d/1yerX3NpYm3JrkTPdiTxhtHktpzJ7UCfS/view">Hire me</a> -->
+    📙 You can reach mey blog
+    <a href="https://tansionline.gitlab.io">here</a>.
+    <a href="https://drive.google.com/file/d/1IwKli2a-vi8zCsw2Bfsmrvy5dE8SNx6S/view">Hire me</a>
   </li>
 </div>
