@@ -11,7 +11,7 @@
     google. 😅
   </li>
   <li>
-    📙 You can reach mey blog
+    📙 You can reach my blog
     <a href="https://tansionline.gitlab.io">here</a>.
   </li>
   <li>
