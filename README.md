@@ -15,6 +15,6 @@
     <a href="https://tansionline.gitlab.io">here</a>.
   </li>
   <li>
-        You can <a href="https://drive.google.com/file/d/1IwKli2a-vi8zCsw2Bfsmrvy5dE8SNx6S/view">Hire me</a>
+        You can <a href="https://drive.google.com/file/d/1IwKli2a-vi8zCsw2Bfsmrvy5dE8SNx6S/view">hire me</a>
   </li>
 </div>
