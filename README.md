@@ -7,8 +7,7 @@
   <li>🎉 Hey, I'm a Software Developer from Antalya/Turkey.</li>
   </li>
   <li>
-    📝 Skills: I use JavaScript, Node.js, VueJS, PostgreSQL, Linux, React. And I know how to
-    google. 😅
+    📝 Skills: I use mostly JavaScript technologies. And I know how to google. 😅
   </li>
   <li>
     📙 You can reach my blog
